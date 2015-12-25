@@ -11,7 +11,7 @@ npm install cmd-exists-sync
 ## Usage
 
 ```js
-var cmdExists = require('cmdExists');
+var cmdExists = require('cmd-exists-sync');
 
 if(cmdExists('ls')) {
   // ls all day long...
