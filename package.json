@@ -1,0 +1,35 @@
+{
+  "name": "cmd-exists-sync",
+  "version": "0.1.0",
+  "description": "Node module to check synchronously if a command-line command exists",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzmyr/cmd-exists-sync.git"
+  },
+  "keywords": [
+    "sync",
+    "command",
+    "shell",
+    "exists",
+    "cli",
+    "sh",
+    "bash",
+    "cmd"
+  ],
+  "author": "Moritz Meyer <m0ritz.m3yer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrzmyr/cmd-exists-sync/issues"
+  },
+  "homepage": "https://github.com/mrzmyr/cmd-exists-sync#readme",
+  "devDependencies": {
+    "ava": "^0.8.0"
+  }
+}
